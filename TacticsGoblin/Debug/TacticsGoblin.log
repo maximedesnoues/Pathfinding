@@ -1,0 +1,8 @@
+﻿  StudentWorkHere.cpp
+C:\Users\md250827\Documents\C++\TacticsGoblin-student\TacticsGoblin\Tile.h(51,95): warning C4244: 'argument' : conversion de 'int' en 'const float', perte possible de données
+  (compiler le fichier source 'StudentWorkHere.cpp')
+  
+C:\Users\md250827\Documents\C++\TacticsGoblin-student\TacticsGoblin\Tile.h(51,89): warning C4244: 'argument' : conversion de 'int' en 'const float', perte possible de données
+  (compiler le fichier source 'StudentWorkHere.cpp')
+  
+  TacticsGoblin.vcxproj -> C:\Users\md250827\Documents\C++\TacticsGoblin-student\Debug\TacticsGoblin.exe
